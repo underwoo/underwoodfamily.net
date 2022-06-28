@@ -1,0 +1,125 @@
+########################## hero area ##########################
+hero:
+  title: "The Underwood Family"
+
+  # animated text loop
+  occupations:
+    - 'David'
+    - 'Jean'
+    - 'Samantha'
+    - 'Seth'
+    - 'Aaron'
+    - 'John'
+    - 'Sarah'
+    - 'Ephriem'
+    - 'Gideon'
+    - 'Gracy'
+    - 'Sadie'
+    - 'Walker'
+    - 'Bridget'
+    - 'Lydia'
+    - 'Morgan'
+    - 'Julie'
+    - 'Eli'
+    - 'Emily'
+    - 'Elexia'
+    - 'Evermore'
+
+  # hero background image
+  bg_image: 'images/background_family.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/background_family_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/david_photo.jpg'
+  title: 'David and Jean'
+  content: Hi, thank you for taking a look around our site.
+#  button:
+#    enable: true
+#    label: 'DOWNLOAD MY RESUME'
+#    link: #
+#    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'History'
+  experience_list:
+    - name: Meet
+      company: Provo, UT
+      duration: '1973'
+
+    - name: Married
+      company: Provo, UT
+      duration: '1974'
+
+    - name: First Child
+      duration: '1975'
+
+    - name: Built House
+      company: Fairview, WV
+      duration: '1976-1977'
+
+    - name: Second Child
+      duration: '1977'
+
+    - name: Third Child
+      duration: '1980'
+
+    - name: The rest is history ...
+      company: Evermore
+      duration: '1980-present'
+############################### Skill #################################
+skill:
+  enable: false
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'React'
+      percentage: '85%'
+
+    - name: 'Detecting'
+      percentage: '93%'
+
+    - name: 'Selling'
+      percentage: '25%'
+
+    - name: 'Yelling'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: false
+  funfacts_list:
+    - name: 'CUPS PER DAY'
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'SITES BUILT'
+      image: 'images/icons/web-development.png'
+      count: '25'
+
+    - name: 'USELESS ROW OF ICONS'
+      image: 'images/icons/happy.png'
+      count: '1'
+
+############################# portfolio ################################
+portfolio:
+  enable: false
+  title: 'MY WORK'
+  portfolio_list:
+    - name: Hugo
+      image: 'images/portfolio/hugo.png'
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Hugo Themes
+      image: 'images/portfolio/hugothemes.png'
+      url: https://gohugo.io
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
+
+    - name: Just A Design
+      image: 'images/portfolio/design.png'
+      description: Commodo non mollit commodo esse. Quis ad Lorem eiusmod ad velit Lorem sint elit. Anim magna duis et duis pariatur eiusmod laboris esse. Sit duis labore sit esse enim laborum nisi sunt magna sint labore tempor. Sit sit sint eu laboris officia et sunt consequat sit excepteur nostrud eu. Fugiat aliqua id et pariatur quis commodo aute aliqua et magna officia eu cillum mollit. Sint culpa excepteur culpa culpa sint est eu dolore culpa duis adipisicing proident.
